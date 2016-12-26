@@ -32,6 +32,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <a href="#" class="w3-padding"><i class="fa fa-briefcase fa-fw" aria-hidden="true"></i>&nbsp;Employment</a>
   <a href="#" class="w3-padding"><i class="fa fa-user fa-fw" aria-hidden="true"></i>&nbsp;Personal profile</a>
   <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;Contact</a>
+  <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;GitHell</a>
 </nav>
 
 
