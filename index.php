@@ -26,13 +26,14 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h2>Welcome</h2>
   </div>
 
-  <a href="#" class="w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black" onclick="w3_close()" title="close menu"><i class="fa fa-remove fa-fw"></i>  Close Menu</a>
+  <a href="#" class="w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black" onclick="w3_close()" title="close menu"><i class="fa fa-remove fa-fw"></i>Â  Close Menu</a>
 
   <a href="#" class="w3-padding"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp;Technologies</a>
   <a href="#" class="w3-padding"><i class="fa fa-briefcase fa-fw" aria-hidden="true"></i>&nbsp;Employment</a>
   <a href="#" class="w3-padding"><i class="fa fa-user fa-fw" aria-hidden="true"></i>&nbsp;Personal profile</a>
   <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;Contact</a>
   <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;GitHell</a>
+  <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;GitSucks (remote change)</a>
 </nav>
 
 
@@ -162,7 +163,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
         <td>1.5%</td>
       </tr>
     </table><br>
-    <button class="w3-btn">More Countries  <i class="fa fa-arrow-right"></i></button>
+    <button class="w3-btn">More Countries Â <i class="fa fa-arrow-right"></i></button>
   </div>
   <hr>
   <div class="w3-container">
