@@ -35,6 +35,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;GitHell</a>
   <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;GitRocks</a>
   <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;Test from Wamp/www</a>
+  <a href="#" class="w3-padding"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;Test from Wamp64/www @ work</a>
 </nav>
 
 
