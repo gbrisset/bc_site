@@ -1,3 +1,3 @@
 # bc_site
 
-#  trying to set up Github repo on Windows
+# testing W3.css
